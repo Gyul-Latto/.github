@@ -53,7 +53,7 @@
 
 <br>
 
-## 📐 시스템 아키텍처
+## 📐 System Architecture
 <img src="https://i.postimg.cc/xCfCS78W/image.png" alt="PickHome 시스템 아키텍처" width="600">
 
 <br>
@@ -88,11 +88,16 @@
 1. 메인 화면
 2. 지도 검색 화면
 3. 추천 결과 & 실시간 아파트 화면
-![PickHome](https://i.postimg.cc/sXjN9PHY/Pick-Home-05.gif)
-
+<img src="https://i.postimg.cc/d31QXy3d/Pick-Home-05-1.gif" alt="예시1" width="600">
+<br>
+<br>
+<img src="https://i.postimg.cc/ZRgYGqdM/Pick-Home-05-3.gif" alt="예시2" width="600">
+<br>
+<br>
+<img src="https://i.postimg.cc/FF31MjTb/Pick-Home-05-4.gif" alt="예시3" width="600">
 
 <br>
-
+<br>
 ## 👥 팀원 소개
 
 | Role       | Name      | GitHub                             |
